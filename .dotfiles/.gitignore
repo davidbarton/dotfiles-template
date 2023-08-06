@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/dotfiles_scripts/
+!/dotfiles_scripts/**/*
